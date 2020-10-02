@@ -1,0 +1,7 @@
+status:ok
+
+emulador
+Não consegui instalar o Chocolatey (mesmo problema que outros colegas que usam Windows 7 realataram) e consequentemente não consegui instalar o emulador.
+
+expo
+Consegui baixar o app e utilizá-lo normalmente.
